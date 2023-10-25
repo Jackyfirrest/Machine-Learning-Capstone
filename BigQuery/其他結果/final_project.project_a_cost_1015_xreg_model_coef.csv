@@ -1,0 +1,31 @@
+ar_coefficients,ma_coefficients,intercept_or_drift,processed_input,weight,category_weights
+"[-0.72397610680068047,-1.0792717270104077,-0.26201050593922404]","[0.41612094421187074,0.870840674292203]",0.0,,,"{
+  ""category_weights"": []
+}"
+[],[],,dayofyear,-5.0782418252085213,"{
+  ""category_weights"": []
+}"
+[],[],,month,158.27122452189454,"{
+  ""category_weights"": []
+}"
+[],[],,quarter,-14.410196763887804,"{
+  ""category_weights"": []
+}"
+[],[],,dayofweek,-2.7306957990828962,"{
+  ""category_weights"": []
+}"
+[],[],,dayofmonth,5.1131082234999363,"{
+  ""category_weights"": []
+}"
+[],[],,weekofyear,0.37466440565223613,"{
+  ""category_weights"": []
+}"
+[],[],,sin_day,1.2428383677112966,"{
+  ""category_weights"": []
+}"
+[],[],,cos_day,-0.17281373340320785,"{
+  ""category_weights"": []
+}"
+[],[],,__INTERCEPT__,7.0451666644633757e-15,"{
+  ""category_weights"": []
+}"
